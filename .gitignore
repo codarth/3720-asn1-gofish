@@ -1,0 +1,12 @@
+*.o
+*.cbp
+*.layout
+*.depend
+*.script
+*.gcno
+\#*#
+.#*
+*.exe
+/doxygen
+*~
+bin/
